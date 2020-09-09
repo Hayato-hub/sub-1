@@ -1,0 +1,116 @@
+body {
+    font-family: 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+    background-color: #FFEEFF;
+}
+
+header {
+    margin-bottom: -1em;
+}
+
+header h3 {
+    text-align: center;
+    color: #FF33CC;
+    border-bottom: solid 2px grey;
+    padding-bottom: 0.5em;
+}
+
+.body {
+    background-color: white;
+}
+
+.title h4 {
+    padding-top: 0.8em;
+}
+
+.title .time {
+    font-weight: bold;
+    font-size: 0.8em;
+    color: grey;
+    margin-top: -1.5em;
+    text-align: left;
+    margin-left: 1em;
+}
+
+.title img {
+    width: 100%;
+}
+
+.title-p {
+    font-weight: bold;
+    font-size: 0.8em;
+    color: grey;
+    text-align: left;
+    margin-left: 1em;
+}
+
+.chat {
+    margin-top: 3em;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.chat-p {
+    color: green;
+    font-weight: bold;
+}
+
+.chat-span {
+    color: grey;
+    font-weight: lighter;
+    font-size: 0.9em;
+}
+
+.cc {
+    font-weight: bold;
+    color: blue;
+    font-size: 0.8em;
+    margin-left: 0.5em;
+    margin-top: -0.8em;
+}
+
+.chat-contents {
+    margin-left: 0.5em;
+    margin-top: -0.5em;
+    font-size: 1em;
+    color: #444444;
+}
+
+.chat-contents-i {
+    margin-left: 0.5em;
+    margin-top: -0.5em;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: green;
+}
+
+.chat img {
+    width: 50%;
+    margin-left: 2em;
+}
+
+.ad {
+    margin-top: 5em;
+}
+
+.ad p {
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.ad img {
+    margin-top: -0.9em;
+    width: 100%;
+}
+
+footer {
+    margin-top: -1em;
+}
+
+footer h3 {
+    text-align: center;
+    color: #FF33CC;
+    border-top: solid 2px grey;
+    padding-top: 0.5em;
+}
