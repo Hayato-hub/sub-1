@@ -19,7 +19,7 @@
                 <h4>【画像】学生ワイ、ママ活で先月62万稼ぐwwwww</h4>
                 <p class="time">2020/09/09 02:28</p>
                 <img src="{{ asset('image/mm_lp_1.JPG') }}"></img>
-                <p class="title-p">1: とりあえず使ったのはコレ→ <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank">https://apps.apple.com/jp/app/free/id45594798</a></p>
+                <p class="title-p">とりあえず使ったのはコレ→ <a href="https://preaf.jp/pa.do?s=v04031&o=47137&guid=ON" target="_blank">https://apps.apple.com/jp/app/free/id45594798</a></p>
             </div>
             <div class="contents">
                 <div class="chat">
@@ -106,7 +106,7 @@
                 <div class="chat">
                     <p class="chat-p"><span class="chat-span">20: </span>風吹けば名無し<span class="chat-span">2020/09/09 02:56</span></p>
                     <p class="cc">>>19</p>
-                    <p class="chat-contents-i">内容にもよるけど<br>食事とか買い物付き添いなら時給5000~7000円くらい<br>Hありやと5~10万とか<br>人によるけどママ活するくらいやからお金に余裕あるのが普通って感じ</p>
+                    <p class="chat-contents-i">内容にもよるけど<br>食事とか買い物付き添いなら時給5000~7000円くらい<br><br>Hありやと5~10万とか<br>人によるけどママ活するくらいやからお金に余裕あるのが普通って感じ</p>
                 </div>
                 <div class="chat">
                     <p class="chat-p"><span class="chat-span">21: </span>風吹けば名無し<span class="chat-span">2020/09/09 02:58</span></p>
@@ -115,7 +115,7 @@
                 <div class="chat">
                     <p class="chat-p"><span class="chat-span">22: </span>風吹けば名無し<span class="chat-span">2020/09/09 03:01</span></p>
                     <p class="cc">>>21</p>
-                    <p class="chat-contents-i">誰でもいける『彼女いない歴 = 年齢』の俺でもいけたんやからwww<br>登録とかもいらんし掲示板で探すか向こうから連絡待つかって感じ</p>
+                    <p class="chat-contents-i">誰でもいける『彼女いない歴 = 年齢』の俺でもいけたんやからwww<br><br>登録とかもいらんし掲示板で探すか向こうから連絡待つかって感じ</p>
                 </div>
                 <div class="chat">
                     <p class="chat-p"><span class="chat-span">23: </span>風吹けば名無し<span class="chat-span">2020/09/09 03:03</span></p>
@@ -142,7 +142,7 @@
             </div>
             <div class="ad">
                 <p>【PR】ド素人『生オナニー配信』アプリ🎶</p>
-                <a href="https://a-trade.jp/redirect/eazy?media=G16531"><img src="https://trading-ad.net/a-trade/banner/eazy_600x500_syogekinoshiyo01_ss50_main.gif" alt=""></a>
+                <a href="https://a-trade.jp/redirect/eazy?media=G16531" target="_blank"><img src="https://trading-ad.net/a-trade/banner/eazy_600x500_syogekinoshiyo01_ss50_main.gif"></a>
             </div>
         </div>
         

@@ -16,6 +16,8 @@ header h3 {
 
 .body {
     background-color: white;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
 }
 
 .title h4 {
@@ -24,7 +26,7 @@ header h3 {
 
 .title .time {
     font-weight: bold;
-    font-size: 0.8em;
+    font-size: 0.6em;
     color: grey;
     margin-top: -1.5em;
     text-align: left;
@@ -95,6 +97,7 @@ header h3 {
 .ad p {
     margin-left: 0.5em;
     margin-right: 0.5em;
+    font-size: 0.8em;
     font-weight: bold;
     text-align: center;
 }
