@@ -13,8 +13,8 @@
 
 // LP獲得用
 Route::get('new', function () {
-    // return view('google.check'); //確認用LP
-    return view('google.mama'); //獲得LP(3)
+    return view('google.check'); //確認用LP
+    // return view('google.mama'); //獲得LP(3)
     
     // return view('google.noMatch'); //獲得LP(2)
     // return view('google.live'); //獲得LP(1)
