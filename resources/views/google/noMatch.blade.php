@@ -4,27 +4,28 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>激ヤバ話題まとめ@5ch</title>
+        <title>裏垢女子まとめ@5ch</title>
         <link href="{{ secure_asset('css/noMatch.css') }}" rel="stylesheet">
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
     </head>
     <body>
         <header>
-            <p>激ヤバ話題まとめ@5ch</p>
+            <p>裏垢女子まとめ@5ch</p>
         </header>
         
         <div class="big-body">
             <div class="body-top">
-                <h1><span>裏垢女子と繋がる！割とガチでえぐいw<br>裏垢女子がこぞって出会い探してるwww</span></h1>
+                <h1><span>AVに飽きた人必見!!!<br>ガチ素人の『裏配信』が今熱い！</span></h1>
                 <a href="https://preaf.jp/pa.do?s=v04031&o=46997&guid=ON" target="_blank"><img src="{{ asset('image/uraLive_1.JPG') }}"></a>
-                <a href="https://preaf.jp/pa.do?s=v04031&o=46997&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 公式AppStoreはコチラ <i class="fas fa-external-link-alt"></i></a>
+                <h1><span>個人配信なら『見せ合い』も可能..!?</span></h1>
+                <a href="https://preaf.jp/pa.do?s=v04031&o=46997&guid=ON" target="_blank" class="btn-square-shadow"><i class="fab fa-apple"></i> 裏配信はコチラ <i class="fas fa-external-link-alt"></i></a>
                 <!--<p>生配信のスクショ! IDで検索すれば過去配信閲覧できるでー</p>-->
             </div>
             
             <div class="big-body-main">
                 <div class="body-main">
-                    <h1>某SNSや出会い掲示板をバンされた裏垢女子がわんさか！！繋がるなら男性が少ない今がチャンス!?</h1>
-                    <p>2020年08月11日20:03</p>
+                    <h1>インスタ・ニコ生・TikTokで垢BANされた裏垢女子多数！<br>刺激強すぎる裏配信の実態とは..!?</h1>
+                    <p>2020年09月14日20:03</p>
                 </div>
                 
                 <div class="body-main-2">
@@ -32,17 +33,12 @@
                 </div>
                 
                 <div class="body-main-3">
-                    <h3>大人の出会いがエグい！清楚系からギャル、現役学生も出会える・・・</h3>
-                    <p>正直、ほんまにエグい。海外無修正動画サービスとか他のアダルトサイトが全然かわいいくらいリアルな女性と出会える。むっちゃ興奮する。<br><br>だって、普通にSNSで動画とかあげてる子と出会えるねんで？その子の動画とか見ながらハメるとかまじ最高過ぎwww<br><br>まじで規制前の今だから盛り上がってる感じ！</p>
-                    <!--<br>-->
-                    <h3>出会いは勿論だけど、相互オナ・見せ合いもイケる！電話セックスってまじで興奮するからやってみて！</h3>
-                    <p>気になる女の子見つけたらオナ電誘ってみて！そうゆう目的のユーザーしかおらんから、返信くれればだいたいいける！<br><br>カメラ越しの映像とかまじで最高！普通に黙ってスクショしちゃったわwww</p>
-                    <!--<img src="{{ asset('image/uraLive_3.JPG') }}">-->
-                    <!--<br>-->
-                    <!--<br>-->
-                    <!--<h3>男同士で情報交換できるのもでかい！おすすめ紹介は勿論、ヤレる女情報とかもありがたいwww</h3>-->
-                    <!--<p>基本ここを使ってる男性はエロ界隈に詳しい人が多いから、ヤレる女とかセフレ交換とかの情報も熱い！<br><br>大都市は勿論、俺が住んでる奈良とか地方都市の情報もあるのでありがたい。。。女の子のTwitter ID載せてくれるしまじで使えるwww<br><br>Tinderで頑張って女引っ掛けてたのがバカらしいわwww</p>-->
-                    <!--<br>-->
+                    <h3>指入れ・おもちゃ・見せ合い・鑑賞 etc...<br>ガチ裏垢女子が見つかるライブ配信</h3>
+                    <p>有名SNSを垢BANされただけあって、刺激強い配信が多数。Pornhubやdmm(Fanza)が飽きた人、リアルな素人のエロ動画を見たい人は必見。<br><br>オナニーだけでも種類は豊富。指入れやクリトリス、おもちゃプレイは勿論、個人配信で繋がればあなたがオナニー指示を出してもOK。</p>
+                    <br>
+                    <h3>性欲強め女子多数なので<br>SNS交換して実際にオフパコするケースも..!?</h3>
+                    <p>中にはTwitterIDなどを公開してるライバーさんもおり、定期的にオフ会を開催しているケースもあります。<br><br>オフ会でなにをするかは言わずもがな。</p>
+                    <br>
                     <img src="{{ asset('image/uraLive_4.JPG') }}">
                     <h3>最近使い過ぎてデータフォルダがやばい件wwwww</h3>
                     <p>オナ電の動画保存してたらまじでこうなるから気をつけてwww</p>
@@ -66,6 +62,11 @@
                     <!--<br>-->
                     <!--<div class="line"></div>-->
                     <!--<br>-->
+                    <img src="{{ asset('image/uraLive_1.JPG') }}">
+                    <img src="{{ asset('image/uraLive_2.JPG') }}">
+                    <img src="{{ asset('image/uraLive_3.JPG') }}">
+                    <img src="{{ asset('image/uraLive_4.JPG') }}">
+                    <img src="{{ asset('image/uraLive_5.jpg') }}">
                 </div>
             </div>
             
